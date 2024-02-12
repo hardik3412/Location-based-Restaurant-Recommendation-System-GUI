@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+openpyxl
+ttkthemes
+Pillow
+folium
